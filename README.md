@@ -33,5 +33,6 @@ This program looks like Instagram app. I practiced my design and backend-side sk
     <td><img src="https://user-images.githubusercontent.com/78588723/116876533-b24f9d80-ac2d-11eb-8284-1e584eb324bc.png" width=270 height=480></td>
     <td><img src="https://user-images.githubusercontent.com/78588723/116877040-75d07180-ac2e-11eb-86f1-9e5cd146b645.png" width=270 height=480></td>
   </tr>
+  
  </table>
  
