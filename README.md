@@ -1,6 +1,6 @@
 # image_upload_flutter
 
-A new Flutter application.
+This program looks like Instagram app. I practiced my design and backend-side skills in Flutter. For upload image to server, fetch image from server. Also upload login data (email, username) to server and fetch from server. I used PHP for backend-side and MySql for database
 
 ## Getting Started
 
