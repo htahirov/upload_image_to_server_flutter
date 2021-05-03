@@ -8,20 +8,8 @@ This program looks like Instagram app. I practiced my design and backend-side sk
 <!DOCTYPE html>
 <html>
 <body>
- <style>
-   .column {
-  float: left;
-  width: 33.33%;
-  padding: 5px;
-}
-.row::after {
-  content: "";
-  clear: both;
-  display: table;
-}
- </style>
 
-<div class="row">
+<div class="row" float="left">
   <div class="column">
     <img src="https://user-images.githubusercontent.com/78588723/116876246-348b9200-ac2d-11eb-8961-560750624c7f.png" width="30%" height="70%">
   </div>
