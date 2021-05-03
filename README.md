@@ -11,13 +11,13 @@ This program looks like Instagram app. I practiced my design and backend-side sk
 
 <div class="row">
   <div class="column">
-    <img src="(https://user-images.githubusercontent.com/78588723/116876246-348b9200-ac2d-11eb-8961-560750624c7f.png)" width="30%" height="70%">
+    <img src="https://user-images.githubusercontent.com/78588723/116876246-348b9200-ac2d-11eb-8961-560750624c7f.png" width="30%" height="70%">
   </div>
   <div class="column">
-    <img src="![Screenshot_1620040830](https://user-images.githubusercontent.com/78588723/116876357-643a9a00-ac2d-11eb-8f6b-279901f31719.png)" width="30%" height="70%">
+    <img src="https://user-images.githubusercontent.com/78588723/116876357-643a9a00-ac2d-11eb-8f6b-279901f31719.png" width="30%" height="70%">
   </div>
   <div class="column">
-    <img src="![Screenshot_1620040832](https://user-images.githubusercontent.com/78588723/116876430-803e3b80-ac2d-11eb-9317-4c12801ad310.png)" width="30%" height="70%">
+    <img src="https://user-images.githubusercontent.com/78588723/116876430-803e3b80-ac2d-11eb-9317-4c12801ad310.png" width="30%" height="70%">
   </div>
 </div>
 
