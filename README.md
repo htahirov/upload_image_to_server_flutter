@@ -19,7 +19,7 @@ This program looks like Instagram app. I practiced my design and backend-side sk
     <td><img src="https://user-images.githubusercontent.com/78588723/116876357-643a9a00-ac2d-11eb-8f6b-279901f31719.png" width=270 height=480></td>
     <td><img src="https://user-images.githubusercontent.com/78588723/116876430-803e3b80-ac2d-11eb-9317-4c12801ad310.png" width=270 height=480></td>
   </tr>
-  
+  <br>
    <tr>
     <td>Logout Screen</td>
      <td>Main Screen</td>
@@ -32,8 +32,8 @@ This program looks like Instagram app. I practiced my design and backend-side sk
   </tr>
   
   <tr>
-    <td>UploadImage Screen</td>
-    <td>UploadImage Screen</td>
+    <td>Upload Image Screen</td>
+    <td>Upload Image Screen</td>
   </tr>
   <tr>
     <td><img src="https://user-images.githubusercontent.com/78588723/116876533-b24f9d80-ac2d-11eb-8284-1e584eb324bc.png" width=270 height=480></td>
