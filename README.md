@@ -1,12 +1,6 @@
 # image_upload_flutter
 
 This program looks like Instagram app. I practiced my design and backend-side skills in Flutter. For upload image to server, fetch image from server. Also upload login data (email, username) to server and fetch from server. I used PHP for backend-side and MySql for database.
-
-
-
-<!DOCTYPE html>
-<html>
-<body>
   
   <table>
   <tr>
@@ -19,7 +13,7 @@ This program looks like Instagram app. I practiced my design and backend-side sk
     <td><img src="https://user-images.githubusercontent.com/78588723/116876357-643a9a00-ac2d-11eb-8f6b-279901f31719.png" width=270 height=480></td>
     <td><img src="https://user-images.githubusercontent.com/78588723/116876430-803e3b80-ac2d-11eb-9317-4c12801ad310.png" width=270 height=480></td>
   </tr>
-  <br>
+ 
    <tr>
     <td>Logout Screen</td>
      <td>Main Screen</td>
