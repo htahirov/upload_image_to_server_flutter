@@ -8,6 +8,18 @@ This program looks like Instagram app. I practiced my design and backend-side sk
 <!DOCTYPE html>
 <html>
 <body>
+ <style>
+   .column {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+ </style>
 
 <div class="row">
   <div class="column">
@@ -23,13 +35,22 @@ This program looks like Instagram app. I practiced my design and backend-side sk
 
 <div class="row">
   <div class="column">
-    <img src="![Screenshot_1620040758](https://user-images.githubusercontent.com/78588723/116876461-91874800-ac2d-11eb-8191-1f0fc1b55ad2.png)" width="30%" height="70%">
+    <img src="https://user-images.githubusercontent.com/78588723/116876461-91874800-ac2d-11eb-8191-1f0fc1b55ad2.png" width="30%" height="70%">
   </div>
   <div class="column">
-    <img src="![Screenshot_1620040779](https://user-images.githubusercontent.com/78588723/116876494-9ea43700-ac2d-11eb-92cb-b22af8cf1520.png)" width="30%" height="70%">
+    <img src="https://user-images.githubusercontent.com/78588723/116876494-9ea43700-ac2d-11eb-92cb-b22af8cf1520.png" width="30%" height="70%">
   </div>
   <div class="column">
-    <img src="![Screenshot_1620040795](https://user-images.githubusercontent.com/78588723/116876533-b24f9d80-ac2d-11eb-8284-1e584eb324bc.png)" width="30%" height="70%">
+    <img src="https://user-images.githubusercontent.com/78588723/116876533-b24f9d80-ac2d-11eb-8284-1e584eb324bc.png" width="30%" height="70%">
+  </div>
+</div>
+
+<div class="row">
+  <div class="column">
+    <img src="https://user-images.githubusercontent.com/78588723/116877040-75d07180-ac2e-11eb-86f1-9e5cd146b645.png" width="30%" height="70%">
+  </div>
+  <div class="column">
+    <img src="https://user-images.githubusercontent.com/78588723/116877093-87197e00-ac2e-11eb-9357-f8e2bcab26e5.png" width="30%" height="70%">
   </div>
 </div>
 
